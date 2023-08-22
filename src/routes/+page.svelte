@@ -1,1 +1,1 @@
-<h1>This is a sveltekit site</h1>
+<h1>This is a sveltekit site made by ish</h1>
